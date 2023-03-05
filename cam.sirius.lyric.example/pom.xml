@@ -1,0 +1,16 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>cam.sirius.lyric</groupId>
+        <artifactId>lyric-aggregator</artifactId>
+        <version>1.0</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <packaging>jar</packaging>
+    <artifactId>lyric-example</artifactId>
+
+    <name>cam.sirius.lyric.example</name>
+    <description>The example application for the Lyric framework.</description>
+</project>
